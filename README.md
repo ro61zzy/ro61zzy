@@ -26,3 +26,4 @@ Changing designs🎑 into code, one by one👩‍💻.
                                                                              
 ⚡ Fun fact: I watch animation movies
 </div>
+</hr >
