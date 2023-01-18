@@ -51,7 +51,10 @@ Changing designs🎑 into code, one by one👩‍💻.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ro61zzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro61zzy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ro61zzy&show_icons=true&locale=en&layout=compact" alt="ro61zzy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ro61zzy&show_icons=true&locale=en" alt="ro61zzy" /></p>
+
 
 ---
 
