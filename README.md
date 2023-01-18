@@ -1,9 +1,10 @@
 <div align="center">
-### Hi there 👋
+  Hi there 👋
+  
 <img src="https://github.com/ro61zzy/ro61zzy/blob/main/tarantulacando.webp" />
 </div>
 
-<p align="right">
+<div align="right">
 Changing designs🎑 into code, one by one👩‍💻.
 
 - 🌱 I’m currently learning Typescript, Solidity, TailWindcss...
@@ -12,4 +13,4 @@ Changing designs🎑 into code, one by one👩‍💻.
   
                                                                            
 - ⚡ Fun fact: I watch animation movies
-</p>
+</div>
