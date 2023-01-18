@@ -4,7 +4,7 @@
 
 <div align = "center"> Hey there! I'm a front-end developer with a love for creating visually pleasing websites. I've been at it for a few years now and know my way around. Always trying to stay on top of the latest web trends, and my ultimate goal is to make websites that look good and are easy to use.</div>
 
-
+<br />
 
 <div align="center">
 <img src="https://github.com/ro61zzy/ro61zzy/blob/main/tarantulacando.webp" />
