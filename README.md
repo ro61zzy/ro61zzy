@@ -1,4 +1,4 @@
-<img src="https://github.com/ro61zzy/ro61zzy/blob/main/title.jpeg" />
+<div align = "center"><img src="https://github.com/ro61zzy/ro61zzy/blob/main/title.jpeg" /></div>
 
 
 
