@@ -53,7 +53,7 @@ Changing designs🎑 into code, one by one👩‍💻.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ro61zzy&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ro61zzy&show_icons=true&locale=en&layout=compact" alt="ro61zzy" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ro61zzy&show_icons=true&locale=en&layout=compact" alt="ro61zzy" />
 
 ---
 
