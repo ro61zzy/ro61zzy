@@ -2,7 +2,7 @@
 
 <br />
 
-<div align = "center"> Hey there! I'm a front-end developer with a love for creating visually pleasing websites. I've been at it for.<br />  a few years now and know my way around. Always trying to stay on top of the latest web trends,and myultimate goal is to <br /> make websites that look good and are easy to use.</div>
+<div align = "center"> Hey there! I'm a front-end developer with a love for creating visually pleasing websites. I've been at it for a few years now</br /> and know my way around. Always trying to stay on top of the latest web trends,and myultimate goal is to <br /> make websites that look good and are easy to use.</div>
 
 <br />
 
