@@ -30,7 +30,7 @@ Changing designs🎑 into code, one by one👩‍💻.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+<p align="center>### 🛠 &nbsp;Languages and Tools :</p>
 
 <p align = "center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,13 +49,12 @@ Changing designs🎑 into code, one by one👩‍💻.
 ---
 
 ### 🔥 &nbsp; My Stats :
-
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ro61zzy&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro61zzy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+</p>
 
