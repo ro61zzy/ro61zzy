@@ -57,6 +57,6 @@ Changing designs🎑 into code, one by one👩‍💻.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro61zzy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ro61zzy.visitor-badge.issue.12&left_color=#800000&right_color=white)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ro61zzy.visitor-badge.issue.12&left_color=#800000&right_color=white).
 
 
