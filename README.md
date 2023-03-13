@@ -15,7 +15,7 @@
   
 Changing designs🎑 into code, one by one👩‍💻.
 
-🌱 I’m currently learning Typescript, Solidity, TailWindcss...
+🌱 I’m currently learning Typescript, NextJs, TailWindcss...
 
 📫 How to reach me: rosekaremeri@gmail.com
   
