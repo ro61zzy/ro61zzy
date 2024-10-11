@@ -15,7 +15,7 @@
   
 Changing designs🎑 into code, one by one👩‍💻.
 
-🌱 I’m currently learning Typescript, NextJs, TailWindcss...
+🌱 I’m currently learning Solidity, ZK-Proofs, Rust...
 
 📫 How to reach me: rosekaremeri@gmail.com
   
