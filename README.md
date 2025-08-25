@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/ro61zzy/ro61zzy/blob/main/title.jpeg" alt="Web Developer Banner" />
-</div>
 
 <h2 align="center">Hi, I'm Rose 👋</h2>
 <p align="center">
@@ -8,6 +5,8 @@ Frontend & Full-Stack Developer specializing in building interactive, user-frien
 Passionate about crafting seamless UX and scaling Web3 products.
 </p>
 
+<br />
+<div align="center"> <img src="https://github.com/ro61zzy/ro61zzy/blob/main/tarantulacando.webp" /> </div>
 ---
 
 ### 🚀 About Me  
