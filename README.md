@@ -7,7 +7,7 @@ Passionate about crafting seamless UX and scaling Web3 products.
 
 <br />
 <div align="center"> <img src="https://github.com/ro61zzy/ro61zzy/blob/main/tarantulacando.webp" /> </div>
----
+
 
 ### 🚀 About Me  
 - 💻 Building **responsive web apps** using **React, Next.js, TypeScript**  
