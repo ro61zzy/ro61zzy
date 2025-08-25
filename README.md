@@ -39,12 +39,8 @@ Passionate about crafting seamless UX and scaling Web3 products.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📌 Featured Projects  
-- [**DeFi Dashboard**](#) – A dashboard to track staking & liquidity positions on Ethereum  
-- [**NFT Marketplace**](#) – Built with Next.js & Ethers.js for wallet-based transactions  
-- [**Full-Stack dApp Boilerplate**](#) – Next.js + Wagmi + Solidity starter template  
+
 
 ---
 
