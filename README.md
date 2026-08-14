@@ -11,8 +11,5 @@ Building software, exploring technology, and some of this and some of that.
 - 🌱 Contributing to open source
 - 🔭 Exploring new technologies
 
- AI · Blockchain · Open Source · Fintech
+ ### AI · Blockchain · Open Source · Fintech
 
-## Reach me
-
-[LinkedIn](https://www.linkedin.com/in/rose-wachuka) 
