@@ -1,4 +1,4 @@
-# Hi, I'm Rose 👋
+# Hi, I'm Rose 👋 
 
 Building software, exploring technology, and some of this and some of that.
 
@@ -6,9 +6,13 @@ Building software, exploring technology, and some of this and some of that.
 
 ## Currently
 
-* Building
-* Learning
-* Contributing to open source
-* Exploring new technologies
+- 📚 Learning
+- 🛠️ Building
+- 🌱 Contributing to open source
+- 🔭 Exploring new technologies
 
-[LinkedIn](https://www.linkedin.com/in/rose-wachuka) · [GitHub](https://github.com/ro61zzy)
+ AI · Blockchain · Open Source · Fintech
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/rose-wachuka) 
